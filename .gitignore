@@ -38,13 +38,13 @@ env/
 # Environment variables
 .env
 
-# Output files
-output/*.pdf
-output/*.pptx
-output/*.png
-output/*.jpg
+# Output files - keeping sample outputs for demo
+# output/*.pdf
+# output/*.pptx
+# output/*.png
+# output/*.jpg
 
-# Keep output directory but ignore contents
+# Keep output directory
 !output/.gitkeep
 
 # OS
