@@ -1,4 +1,4 @@
-# 🚀 Automated Insight Engine
+# 🚀 H-001 |The Automated Insight Engine
 **Tagline:** Transform raw AdTech CSVs into executive-ready PDF/PPTX reports with AI-generated insights in under 2 minutes.
 
 ---
